@@ -4,7 +4,7 @@ const postdata = [
     {
     title: 'Slazzy Blaze.',
     post_url: 'https://chickens.com/super/important/crazystuff.html',
-    user_id: 6
+    user_id: 1
     }
 ]
 
